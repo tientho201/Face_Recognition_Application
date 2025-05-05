@@ -41,7 +41,7 @@ pip install -r requirements.txt
 .venv\Scripts\activate
 # Trên Linux/Mac
 source .venv/bin/activate
-
+```
 
 2. Chạy ứng dụng:
 ```bash
