@@ -8,7 +8,7 @@
 
 ## Yêu cầu hệ thống
 
-- Python 3.10
+- Python 3.10 trở lên
 - Webcam (để sử dụng tính năng nhận diện cảm xúc từ video stream)
 - Đủ dung lượng ổ cứng để cài đặt các thư viện cần thiết
 
