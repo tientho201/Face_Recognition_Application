@@ -80,7 +80,3 @@ python main.py
 ## Đóng góp
 
 Mọi đóng góp đều được hoan nghênh! Vui lòng tạo issue hoặc pull request để đóng góp.
-
-## Giấy phép
-
-[MIT License](LICENSE)
